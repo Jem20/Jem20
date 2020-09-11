@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**ChefJem/ChefJem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jem, a 13 year old software developer/coder from North Carolina.
 
-Here are some ideas to get you started:
+# Programming languages / Skills
+* Node.js,
+* JavaScript / Typescript
+* Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Contact
+You can email me
+
+*You can also find me on:*
+Discord (via my DM: jem.#1111)
