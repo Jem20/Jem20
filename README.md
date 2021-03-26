@@ -1,17 +1,9 @@
 ### Hi there 👋
 
-I'm **Jem**, a 13 year old software developer/coder from North Carolina.
+I'm Hailify, a 14 year old learning to code
 
 ### Programming languages / Skills
-* Node.js
-* JavaScript / Typescript
-* Python
-
-### Contact
-You can email me: officialmeraxplays@gmail.com
-
-*You can also find me on:*\
-Discord (via DM: <code>jem.#1111</code>)
+Only a little bit of java and html
 
 <hr>
 
