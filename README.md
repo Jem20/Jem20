@@ -3,7 +3,7 @@
 I'm Jem, a 14 year old learning to code
 
 ### Programming languages / Skills
-Only a little bit of java and html
+Java and html
 
 <hr>
 
